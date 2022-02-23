@@ -97,9 +97,6 @@ class Scraper:
         # Calling by bro bula to khula all of them
         self.ma_hu_bula_kerta_hu_data_ka_khula(Channels_Data)
 
-
-
-'-----------------BRAVE -- OP-------------------'
 driver_path = "C:/Program Files (x86)/chromedriver.exe"
 brave_path = "C:/Program Files/Google/Chrome/Application/chrome.exe"
 
